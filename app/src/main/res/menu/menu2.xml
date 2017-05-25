@@ -4,4 +4,8 @@
         android:title="image - ROTATION"/>
     <item android:id="@+id/menu2_item_size"
         android:title="image - SIZE"/>
+    <item android:id="@+id/menu2_item_replace"
+        android:title="image - REPLACE"/>
+    <item android:id="@+id/menu2_item_backagain"
+        android:title="image - BACKAGAIN"/>
 </menu>
